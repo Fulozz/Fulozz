@@ -7,7 +7,6 @@
 ###
 
 <p align="left"></p>
-<p align="left"></p>
 
 ###
 
@@ -21,7 +20,6 @@
 
 ###
 
-<p align="left"></p>
 <p align="left"></p>
 
 ###
@@ -43,13 +41,11 @@
 ###
 
 <p align="left"></p>
-<p align="left"></p>
 
 ###
 
 <p align="left">Linguagens e Frameworks que eu pretendo aprender/estou iniciando os estudos:</p>
 
-###
 ###
 
 <div align="left">
@@ -59,16 +55,13 @@
 </div>
 
 ###
-###
 
-<p align="left"></p>
 <p align="left"></p>
 
 ###
 
 <p align="left">Coisas que eu uso para fazer meus projetos:</p>
 
-###
 ###
 
 <div align="left">
@@ -77,7 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
 </div>
 
-###
 ###
 
 <div align="center">
