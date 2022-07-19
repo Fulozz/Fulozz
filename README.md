@@ -16,10 +16,10 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/fulozz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="auto" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://linkedin.com/in/fulozz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Fulozz/portfolio/main/img/favicon/android-chrome-192x192.png" width="52" height="40" alt="portfolio"  />
+    <img src="https://raw.githubusercontent.com/Fulozz/portfolio/main/img/favicon/android-chrome-192x192.png" width="72" height="50" alt="portfolio"  />
   </a>
 </div>
 
