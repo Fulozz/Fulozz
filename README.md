@@ -12,7 +12,7 @@
 
 ###
 <p align="left"> 
-  Sou gaúcho, tenho 25 anos e sou <strong>Desenvolvedor Front-End</strong>.
+  Sou de São Paulo, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
 Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
 
