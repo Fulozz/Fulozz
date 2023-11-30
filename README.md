@@ -1,3 +1,6 @@
+## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
+
+
 <h1 align="left">Olá! Eu sou o Thiago</h1>
 
 ###
