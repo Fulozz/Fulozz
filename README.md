@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Sou de São Paulo, São Paulo<br>  | Desenvolvedor Front-end web Junior  💻 🖼️<br>   | Começei recentemente na programação e aqui no meu github tem desde o meu primeiro projeto até o mais atual 💻<br>    | Minhas proximas metas é fazer uma faculdade que envolva Ciencias da Computação</p>
+<p align="left">Sou de São Paulo, São Paulo
+ <br>   | Desenvolvedor Front-end web 💻 🖼️
+ <br>   | Começei recentemente na programação e aqui no meu github tem desde o meu primeiro projeto até o mais atual 💻
+ <br>   | Minhas proximas metas é fazer uma faculdade que envolva Ciencias da Computação</p>
 
 ###
 <h2 align="left">
